@@ -15,14 +15,15 @@ This repository contains a Jupyter Notebook (`health_ml.ipynb`) that demonstrate
    - Identify missing values, correlations, and class balance.
    - Example plots:
 
-   ![EDA Plot 1](images/eda1.png)
-   ![EDA Plot 2](images/eda2.png)
+   ![EDA Plot 1](eda.png)
+   ![EDA Plot 2](heatmap.png)
+   [EDA Plot 2](confusion.png)
 
-3. **Model Preparation**  
+4. **Model Preparation**  
    - Train-test split.
    - Data preprocessing.
 
-4. **Model Training & Fine-Tuning**  
+5. **Model Training & Fine-Tuning**  
    - Train baseline models.
    - Fine-tune hyperparameters.
    - Evaluate model performance.
