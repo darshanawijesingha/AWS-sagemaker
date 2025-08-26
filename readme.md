@@ -53,8 +53,7 @@ This repository contains a Jupyter Notebook (`health_ml.ipynb`) that demonstrate
 
 3. Run all cells sequentially to reproduce results.
 
-## EDA Images
-Save your generated EDA plots into the `images/` directory as `eda1.png` and `eda2.png` so they appear in the README.
+
 
 ## License
 This project is licensed under the MIT License.
