@@ -17,7 +17,7 @@ This repository contains a Jupyter Notebook (`health_ml.ipynb`) that demonstrate
 
    ![EDA Plot 1](eda.png)
    ![EDA Plot 2](heatmap.png)
-   [EDA Plot 3](confusiion.png)
+   ![EDA Plot 3](confusiion.png)
 
 4. **Model Preparation**  
    - Train-test split.
